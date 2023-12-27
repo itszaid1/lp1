@@ -1,0 +1,55 @@
+h1{
+    color: black;
+    padding-left: 5px;
+    font-size: 60px;
+}
+
+form{
+    border: 2px solid black;
+    height: 500px;
+    width: 350px;
+    padding-left: 75px;
+    margin: auto;
+    margin-top: 100px;
+    background-color:pink;
+    box-shadow: 10px 10px 10px;
+}
+
+.log{
+    margin-bottom: 20px;
+    
+}
+input[type=text]{
+    font-size: large;
+    border-radius: 15px;
+    border-style: none;
+}
+input[type=password]{
+    font-size: large;
+    border-radius: 15px;
+    border-style: none;
+}
+
+.adj{
+    margin-top: 50px;
+}
+#btt{
+    font-size:30px ;
+    padding-left: 100px;
+    padding-right: 100px;
+    border: 2px solid black;
+    margin-top: 50px;
+    margin-left:10px ;
+    background-color: blueviolet;
+    color: white;
+    transition: 1s;
+}
+
+#btt:hover{
+    background-color: aquamarine;
+    transform: rotate(360deg);
+    border-radius: 50px;
+}
+
+
+
